@@ -44,7 +44,7 @@ img {
 }
 .box {
   width: 90%;
-  display: flex;
+  display: block;
   flex-direction: column;
   background-color: #333333;
   color: #ffffff;
